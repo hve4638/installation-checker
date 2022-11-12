@@ -1,0 +1,99 @@
+Chrome:
+  file: Chrome.exe
+  path: C:\Program Files\Google\Chrome\
+
+GitHubDesktop:
+  file: GitHubDesktop.exe
+  path: "%localappdata%/GitHubDesktop"
+
+hwmonitor:
+  file: hwmonitor.zip
+  path: C:\Users\hve46\AppData\Local\Programs\Microsoft VS Code
+
+PowerToys:
+  file: PowerToys(x64).exe
+  path: C:\Program Files\PowerToys\
+
+Shotcut:
+  file: Shotcut(x64).exe
+  path: C:\Program Files\Shotcut
+
+Git-Bash:
+  file: Git-Bash.exe
+  path: C:\Program Files\Git\
+
+VisualStudio:
+  file: VisualStudio.exe
+  path: C:\Program Files\Microsoft Visual Studio
+
+VSCode:
+  file: VSCode.exe
+  path: 
+
+Adguard:
+  file: Adguard.exe
+  path: C:\Program Files (x86)\AdGuard
+
+aimp:
+  file: aimp.exe
+  path: C:\Program Files\AIMP
+
+AutoHotkey:
+  file: AutoHotkey.exe
+  path: C:\Program Files\AutoHotkey
+
+bdzip:
+  file: bdzip(x64).EXE
+  path: C:\Program Files\Bandizip
+
+BDCAM:
+  file: BDCAM.EXE
+  path: C:\Program Files\Bandicam
+
+Discord:
+  file: Discord.exe
+  path: "%localappdata%\\Discord"
+
+GoldWave:
+  file: GoldWave.exe
+  path: C:\Program Files\GoldWave
+
+notepad++:
+  file: notepad++.exe
+  path: C:\Program Files\Notepad++\
+
+OBS:
+  file: OBS(x64).exe
+  path: C:\Program Files\obs-studio\
+
+PotPlayer:
+  file: PotPlayer.exe
+  path: C:\Program Files\DAUM\PotPlayer
+
+AndroidStudio:
+  file: AndroidStudio.exe
+  path: C:/Program Files/Android/Android Studio/
+
+jre:
+  file: jre(x64).exe
+  path:
+
+Mouse Without Borders:
+  file: MouseWithoutBorders.msi
+  path: C:\Program Files (x86)\Microsoft Garage\Mouse without Borders
+
+bandicut:
+  file: bdcut.exe
+  path: 
+
+HoneyCam:
+  file: HoneyCam(x64).EXE
+  path: C:\Program Files\Honeycam
+
+Everything:
+  file: Everything-1.4.1.1022.exe
+  path: C:\Program Files\Everything\
+
+python:
+  file: python.exe
+  path: C:\Users\hve46\AppData\Local\Programs\Python
