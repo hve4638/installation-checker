@@ -1,0 +1,63 @@
+Chrome:
+  file: Chrome.exe
+  path: C:\Program Files\Google\Chrome\
+
+PowerToys:
+  file: PowerToys(x64).exe
+  path: C:\Program Files\PowerToys\
+
+Git-Bash:
+  file: Git-Bash.exe
+  path: C:\Program Files\Git\
+
+VisualStudio:
+  file: VisualStudio.exe
+  path: C:\Program Files\Microsoft Visual Studio
+
+VSCode:
+  file: VSCode.exe
+  path: "%localappdata%/Programs/Microsoft VS Code"
+
+Adguard:
+  file: Adguard.exe
+  path: C:\Program Files (x86)\AdGuard
+
+
+AutoHotkey:
+  file: AutoHotkey.exe
+  path: C:\Program Files\AutoHotkey
+
+bdzip:
+  file: bdzip(x64).EXE
+  path: C:\Program Files\Bandizip
+
+
+notepad++:
+  file: notepad++.exe
+  path: C:\Program Files\Notepad++\
+
+
+PotPlayer:
+  file: PotPlayer.exe
+  path: C:\Program Files\DAUM\PotPlayer
+
+AndroidStudio:
+  file: AndroidStudio.exe
+  path: C:/Program Files/Android/Android Studio/
+
+Mouse Without Borders:
+  file: MouseWithoutBorders.msi
+  path: C:\Program Files (x86)\Microsoft Garage\Mouse without Borders
+  
+Everything:
+  file: Everything-1.4.1.1022.exe
+  path: C:\Program Files\Everything\
+
+Python:
+  file: python.exe
+  path: C:\Users\hve46\AppData\Local\Programs\Python
+
+HoneyView:
+  file: honeyview.EXE
+  path: C:\Program Files\Honeyview
+ 
